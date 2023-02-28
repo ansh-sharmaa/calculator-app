@@ -1,0 +1,25 @@
+From 9f39139d55bfb435e066d9934416bd196df3deec Mon Sep 17 00:00:00 2001
+From: anirudh github <anirudh1500@gmail.com>
+Date: Tue, 28 Feb 2023 17:43:02 +0530
+Subject: [PATCH] use
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index d3597f4..a8f14ae 100644
+--- a/index.html
++++ b/index.html
+@@ -7,7 +7,7 @@
+   <body>
+     
+     <div id="calculator">
+-      <head>use calcualtor</head>
++      <head>use </head>
+       <div id="display"></div>
+      
+       <button onclick="clearDisplay()">C</button>
+-- 
+2.37.2.windows.2
+
