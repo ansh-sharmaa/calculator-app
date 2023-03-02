@@ -27,3 +27,5 @@ def calculator():
 
 # Call the calculator function
 calculator()
+
+This is the code for calculator.
